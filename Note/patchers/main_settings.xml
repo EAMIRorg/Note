@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+
+<pattrstorage name = "pedalman[2]">
+	<slot number = "1">
+		<pattr name = "pedalman" value = "0" />
+		<pattr name = "pedalman[10]" value = "1" />
+		<pattr name = "pedalman[11]" value = "1" />
+		<pattr name = "pedalman[12]" value = "0" />
+		<pattr name = "pedalman[13]" value = "1" />
+		<pattr name = "pedalman[14]" value = "0" />
+		<pattr name = "pedalman[15]" value = "0" />
+		<pattr name = "pedalman[3]" value = "1" />
+		<pattr name = "pedalman[6]" value = "1" />
+		<pattr name = "pedalman[7]" value = "0" />
+		<pattr name = "pedalman[8]" value = "0" />
+		<pattr name = "pedalman[9]" value = "1" />
+		<patcher name = "patcher">
+			<patcher name = "EAMIR_chord_list16">
+				<pattr name = "eamir_chord_list[34]" value = "1" />
+			</patcher>
+		</patcher>
+		<patcher name = "patcher[1]">
+			<patcher name = "EAMIR_chord_generation">
+				<pattr name = "eamir_mol_triad[9]" value = "-1" />
+			</patcher>
+		</patcher>
+		<patcher name = "patcher[2]">
+			<patcher name = "EAMIR_chord_voicing">
+				<pattr name = "eamir_chord_voicing[2]" value = "-1" />
+			</patcher>
+		</patcher>
+		<patcher name = "patcher[3]">
+			<patcher name = "EAMIR_chordspeller">
+				<pattr name = "eamir_chordspeller[5]" value = "1" />
+			</patcher>
+		</patcher>
+		<patcher name = "patcher[4]">
+			<patcher name = "EAMIR_chord_assignation">
+				<pattr name = "eamir_chord_assignation" value = "1" />
+			</patcher>
+		</patcher>
+		<patcher name = "patcher[5]">
+			<patcher name = "EAMIR_midi_learn">
+				<pattr name = "eamir_midi_learn[4]" value = "1" />
+			</patcher>
+		</patcher>
+		<patcher name = "patcher[6]">
+			<patcher name = "EAMIR_pcmatch">
+				<pattr name = "eamir_pc_match_chord_list[18]" value = "-1" />
+			</patcher>
+		</patcher>
+		<patcher name = "patcher[7]">
+			<patcher name = "EAMIR_MIDI_out[1]">
+				<pattr name = "eamir_MIDI" value = "0" />
+				<pattr name = "eamir_MIDI[2]" value = "0" />
+				<pattr name = "eamir_MIDI[3]" value = "0" />
+				<pattr name = "eamir_MIDI[4]" value = "0" />
+				<pattr name = "eamir_MIDI[5]" value = "36" />
+				<pattr name = "eamr_MIDI" value = "48" />
+			</patcher>
+		</patcher>
+		<patcher name = "patcher[8]">
+			<patcher name = "eamir_keyboard">
+				<pattr name = "eamir_ascii_keyboard" value = "0" />
+				<pattr name = "eamir_ascii_keyboard[2]" value = "1" />
+			</patcher>
+		</patcher>
+		<patcher name = "MIDI_Input">
+			<patcher name = "EAMIR_MIDI_in">
+				<pattr name = "eamir_MIDI" value = "0" />
+				<pattr name = "eamir_MIDI[2]" value = "1" />
+				<pattr name = "eamir_MIDI[3]" value = "36" />
+				<pattr name = "eamir_MIDI[4]" value = "48" />
+			</patcher>
+		</patcher>
+	</slot>
+	<slot number = "2">
+		<pattr name = "pedalman" value = "0" />
+		<pattr name = "pedalman[10]" value = "2" />
+		<pattr name = "pedalman[11]" value = "" />
+		<pattr name = "pedalman[12]" value = "" />
+		<pattr name = "pedalman[13]" value = "" />
+		<pattr name = "pedalman[14]" value = "2" />
+		<pattr name = "pedalman[15]" value = "0" />
+		<pattr name = "pedalman[3]" value = "" />
+		<pattr name = "pedalman[6]" value = "" />
+		<pattr name = "pedalman[7]" value = "0" />
+		<pattr name = "pedalman[8]" value = "0" />
+		<pattr name = "pedalman[9]" value = "1" />
+		<patcher name = "patcher">
+			<patcher name = "EAMIR_chord_list16">
+				<pattr name = "eamir_chord_list[34]" value = "" />
+			</patcher>
+		</patcher>
+		<patcher name = "patcher[1]">
+			<patcher name = "EAMIR_chord_generation">
+				<pattr name = "eamir_mol_triad[9]" value = "" />
+			</patcher>
+		</patcher>
+		<patcher name = "patcher[2]">
+			<patcher name = "EAMIR_chord_voicing">
+				<pattr name = "eamir_chord_voicing[2]" value = "" />
+			</patcher>
+		</patcher>
+		<patcher name = "patcher[3]">
+			<patcher name = "EAMIR_chordspeller">
+				<pattr name = "eamir_chordspeller[5]" value = "" />
+			</patcher>
+		</patcher>
+		<patcher name = "patcher[4]">
+			<patcher name = "EAMIR_chord_assignation">
+				<pattr name = "eamir_chord_assignation" value = "" />
+			</patcher>
+		</patcher>
+		<patcher name = "patcher[5]">
+			<patcher name = "EAMIR_midi_learn">
+				<pattr name = "eamir_midi_learn[4]" value = "" />
+			</patcher>
+		</patcher>
+		<patcher name = "patcher[6]">
+			<patcher name = "EAMIR_pcmatch">
+				<pattr name = "eamir_pc_match_chord_list[18]" value = "" />
+			</patcher>
+		</patcher>
+		<patcher name = "patcher[7]">
+			<patcher name = "EAMIR_MIDI_out[1]">
+				<pattr name = "eamir_MIDI" value = "" />
+				<pattr name = "eamir_MIDI[2]" value = "" />
+				<pattr name = "eamir_MIDI[3]" value = "" />
+				<pattr name = "eamir_MIDI[4]" value = "" />
+				<pattr name = "eamir_MIDI[5]" value = "" />
+				<pattr name = "eamr_MIDI" value = "" />
+			</patcher>
+		</patcher>
+		<patcher name = "patcher[8]">
+			<patcher name = "eamir_keyboard">
+				<pattr name = "eamir_ascii_keyboard" value = "" />
+				<pattr name = "eamir_ascii_keyboard[2]" value = "" />
+			</patcher>
+		</patcher>
+		<patcher name = "MIDI_Input">
+			<patcher name = "EAMIR_MIDI_in">
+				<pattr name = "eamir_MIDI" value = "" />
+				<pattr name = "eamir_MIDI[2]" value = "" />
+				<pattr name = "eamir_MIDI[3]" value = "" />
+				<pattr name = "eamir_MIDI[4]" value = "" />
+			</patcher>
+		</patcher>
+	</slot>
+	<slot number = "3">
+		<pattr name = "pedalman" value = "0" />
+		<pattr name = "pedalman[10]" value = "2" />
+		<pattr name = "pedalman[11]" value = "" />
+		<pattr name = "pedalman[12]" value = "" />
+		<pattr name = "pedalman[13]" value = "" />
+		<pattr name = "pedalman[14]" value = "4" />
+		<pattr name = "pedalman[15]" value = "0" />
+		<pattr name = "pedalman[3]" value = "" />
+		<pattr name = "pedalman[6]" value = "" />
+		<pattr name = "pedalman[7]" value = "0" />
+		<pattr name = "pedalman[8]" value = "0" />
+		<pattr name = "pedalman[9]" value = "1" />
+		<patcher name = "patcher">
+			<patcher name = "EAMIR_chord_list16">
+				<pattr name = "eamir_chord_list[34]" value = "" />
+			</patcher>
+		</patcher>
+		<patcher name = "patcher[1]">
+			<patcher name = "EAMIR_chord_generation">
+				<pattr name = "eamir_mol_triad[9]" value = "" />
+			</patcher>
+		</patcher>
+		<patcher name = "patcher[2]">
+			<patcher name = "EAMIR_chord_voicing">
+				<pattr name = "eamir_chord_voicing[2]" value = "" />
+			</patcher>
+		</patcher>
+		<patcher name = "patcher[3]">
+			<patcher name = "EAMIR_chordspeller">
+				<pattr name = "eamir_chordspeller[5]" value = "" />
+			</patcher>
+		</patcher>
+		<patcher name = "patcher[4]">
+			<patcher name = "EAMIR_chord_assignation">
+				<pattr name = "eamir_chord_assignation" value = "" />
+			</patcher>
+		</patcher>
+		<patcher name = "patcher[5]">
+			<patcher name = "EAMIR_midi_learn">
+				<pattr name = "eamir_midi_learn[4]" value = "" />
+			</patcher>
+		</patcher>
+		<patcher name = "patcher[6]">
+			<patcher name = "EAMIR_pcmatch">
+				<pattr name = "eamir_pc_match_chord_list[18]" value = "" />
+			</patcher>
+		</patcher>
+		<patcher name = "patcher[7]">
+			<patcher name = "EAMIR_MIDI_out[1]">
+				<pattr name = "eamir_MIDI" value = "" />
+				<pattr name = "eamir_MIDI[2]" value = "" />
+				<pattr name = "eamir_MIDI[3]" value = "" />
+				<pattr name = "eamir_MIDI[4]" value = "" />
+				<pattr name = "eamir_MIDI[5]" value = "" />
+				<pattr name = "eamr_MIDI" value = "" />
+			</patcher>
+		</patcher>
+		<patcher name = "patcher[8]">
+			<patcher name = "eamir_keyboard">
+				<pattr name = "eamir_ascii_keyboard" value = "" />
+				<pattr name = "eamir_ascii_keyboard[2]" value = "" />
+			</patcher>
+		</patcher>
+		<patcher name = "MIDI_Input">
+			<patcher name = "EAMIR_MIDI_in">
+				<pattr name = "eamir_MIDI" value = "" />
+				<pattr name = "eamir_MIDI[2]" value = "" />
+				<pattr name = "eamir_MIDI[3]" value = "" />
+				<pattr name = "eamir_MIDI[4]" value = "" />
+			</patcher>
+		</patcher>
+	</slot>
+</pattrstorage>
+

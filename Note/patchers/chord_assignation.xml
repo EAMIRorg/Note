@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+
+<pattrstorage name = "eamir_chord_assignation">
+	<slot number = "1">
+		<pattr name = "eamir_chord_assignation[1]" value = "0" />
+		<pattr name = "eamir_chord_assignation[10]" value = "0" />
+		<pattr name = "eamir_chord_assignation[11]" value = "0" />
+		<pattr name = "eamir_chord_assignation[12]" value = "0" />
+		<pattr name = "eamir_chord_assignation[13]" value = "0" />
+		<pattr name = "eamir_chord_assignation[14]" value = "0" />
+		<pattr name = "eamir_chord_assignation[15]" value = "0" />
+		<pattr name = "eamir_chord_assignation[16]" value = "0" />
+		<pattr name = "eamir_chord_assignation[17]" value = "0" />
+		<pattr name = "eamir_chord_assignation[18]" value = "0" />
+		<pattr name = "eamir_chord_assignation[3]" value = "0" />
+		<pattr name = "eamir_chord_assignation[4]" value = "0" />
+		<pattr name = "eamir_chord_assignation[5]" value = "0" />
+		<pattr name = "eamir_chord_assignation[6]" value = "0" />
+		<pattr name = "eamir_chord_assignation[7]" value = "0" />
+		<pattr name = "eamir_chord_assignation[8]" value = "0" />
+		<pattr name = "eamir_chord_assignation[9]" value = "0" />
+	</slot>
+	<slot number = "2">
+		<pattr name = "eamir_chord_assignation[1]" value = "0" />
+		<pattr name = "eamir_chord_assignation[10]" value = "1" />
+		<pattr name = "eamir_chord_assignation[11]" value = "1" />
+		<pattr name = "eamir_chord_assignation[12]" value = "1" />
+		<pattr name = "eamir_chord_assignation[13]" value = "1" />
+		<pattr name = "eamir_chord_assignation[14]" value = "1" />
+		<pattr name = "eamir_chord_assignation[15]" value = "1" />
+		<pattr name = "eamir_chord_assignation[16]" value = "1" />
+		<pattr name = "eamir_chord_assignation[17]" value = "1" />
+		<pattr name = "eamir_chord_assignation[18]" value = "1" />
+		<pattr name = "eamir_chord_assignation[3]" value = "1" />
+		<pattr name = "eamir_chord_assignation[4]" value = "1" />
+		<pattr name = "eamir_chord_assignation[5]" value = "1" />
+		<pattr name = "eamir_chord_assignation[6]" value = "1" />
+		<pattr name = "eamir_chord_assignation[7]" value = "1" />
+		<pattr name = "eamir_chord_assignation[8]" value = "1" />
+		<pattr name = "eamir_chord_assignation[9]" value = "1" />
+	</slot>
+	<slot number = "3">
+		<pattr name = "eamir_chord_assignation[1]" value = "0" />
+		<pattr name = "eamir_chord_assignation[10]" value = "0" />
+		<pattr name = "eamir_chord_assignation[11]" value = "0" />
+		<pattr name = "eamir_chord_assignation[12]" value = "0" />
+		<pattr name = "eamir_chord_assignation[13]" value = "0" />
+		<pattr name = "eamir_chord_assignation[14]" value = "0" />
+		<pattr name = "eamir_chord_assignation[15]" value = "0" />
+		<pattr name = "eamir_chord_assignation[16]" value = "0" />
+		<pattr name = "eamir_chord_assignation[17]" value = "0" />
+		<pattr name = "eamir_chord_assignation[18]" value = "0" />
+		<pattr name = "eamir_chord_assignation[3]" value = "0" />
+		<pattr name = "eamir_chord_assignation[4]" value = "0" />
+		<pattr name = "eamir_chord_assignation[5]" value = "0" />
+		<pattr name = "eamir_chord_assignation[6]" value = "0" />
+		<pattr name = "eamir_chord_assignation[7]" value = "0" />
+		<pattr name = "eamir_chord_assignation[8]" value = "0" />
+		<pattr name = "eamir_chord_assignation[9]" value = "0" />
+	</slot>
+</pattrstorage>
+

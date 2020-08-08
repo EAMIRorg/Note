@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+
+<pattrstorage name = "eamir_chordspeller[5]">
+	<slot number = "1">
+		<pattr name = "eamir_chordspeller[3]" value = "0" />
+		<pattr name = "eamir_chordspeller" value = "36" />
+		<pattr name = "eamir_chordspeller[10]" value = "60" />
+		<pattr name = "eamir_chordspeller[11]" value = "62 27 65 27 69 34 74 29" />
+		<pattr name = "eamir_chordspeller[12]" value = "36" />
+		<pattr name = "eamir_chordspeller[13]" value = "60" />
+		<pattr name = "eamir_chordspeller[14]" value = "61 35 65 25 69 37 75 44" />
+		<pattr name = "eamir_chordspeller[15]" value = "36" />
+		<pattr name = "eamir_chordspeller[16]" value = "60" />
+		<pattr name = "eamir_chordspeller[17]" value = "52 32 55 25 59 23 64 20" />
+		<pattr name = "eamir_chordspeller[18]" value = "36" />
+		<pattr name = "eamir_chordspeller[19]" value = "60" />
+		<pattr name = "eamir_chordspeller[1]" value = "60" />
+		<pattr name = "eamir_chordspeller[20]" value = "56 57 68 61 71 25 74 34 80 36" />
+		<pattr name = "eamir_chordspeller[21]" value = "36" />
+		<pattr name = "eamir_chordspeller[22]" value = "60" />
+		<pattr name = "eamir_chordspeller[23]" value = "67 25 71 25 74 32 79 32" />
+		<pattr name = "eamir_chordspeller[24]" value = "36" />
+		<pattr name = "eamir_chordspeller[25]" value = "60" />
+		<pattr name = "eamir_chordspeller[26]" value = "66 32 69 37 72 32 78 49" />
+		<pattr name = "eamir_chordspeller[27]" value = "36" />
+		<pattr name = "eamir_chordspeller[28]" value = "60" />
+		<pattr name = "eamir_chordspeller[29]" value = "65 25 69 25 72 32 77 35" />
+		<pattr name = "eamir_chordspeller[2]" value = "60 37 64 34 67 29 72 20" />
+		<pattr name = "eamir_chordspeller[30]" value = "36" />
+		<pattr name = "eamir_chordspeller[31]" value = "60" />
+		<pattr name = "eamir_chordspeller[32]" value = "48 43 60 34 64 34 67 36 72 41 84 34" />
+		<pattr name = "eamir_chordspeller[33]" value = "36" />
+		<pattr name = "eamir_chordspeller[34]" value = "60" />
+		<pattr name = "eamir_chordspeller[35]" value = "59 39 71 30 74 32 77 32 83 34" />
+		<pattr name = "eamir_chordspeller[36]" value = "36" />
+		<pattr name = "eamir_chordspeller[37]" value = "60" />
+		<pattr name = "eamir_chordspeller[38]" value = "58 61 70 40 72 37 76 34 80 61" />
+		<pattr name = "eamir_chordspeller[39]" value = "36" />
+		<pattr name = "eamir_chordspeller[40]" value = "60" />
+		<pattr name = "eamir_chordspeller[41]" value = "57 39 69 32 72 32 76 30 81 30" />
+		<pattr name = "eamir_chordspeller[42]" value = "36" />
+		<pattr name = "eamir_chordspeller[43]" value = "60" />
+		<pattr name = "eamir_chordspeller[44]" value = "-1" />
+		<pattr name = "eamir_chordspeller[45]" value = "36" />
+		<pattr name = "eamir_chordspeller[46]" value = "60" />
+		<pattr name = "eamir_chordspeller[47]" value = "-1" />
+		<pattr name = "eamir_chordspeller[48]" value = "36" />
+		<pattr name = "eamir_chordspeller[49]" value = "60" />
+		<pattr name = "eamir_chordspeller[50]" value = "-1" />
+		<pattr name = "eamir_chordspeller[6]" value = "36" />
+		<pattr name = "eamir_chordspeller[7]" value = "60" />
+		<pattr name = "eamir_chordspeller[8]" value = "61 48 64 29 67 27 73 44" />
+		<pattr name = "eamir_chordspeller[9]" value = "36" />
+	</slot>
+	<slot number = "2">
+		<pattr name = "eamir_chordspeller[3]" value = "0" />
+		<pattr name = "eamir_chordspeller" value = "36" />
+		<pattr name = "eamir_chordspeller[10]" value = "60" />
+		<pattr name = "eamir_chordspeller[11]" value = "39 31 40 65 44 2 48 56 49 2" />
+		<pattr name = "eamir_chordspeller[12]" value = "36" />
+		<pattr name = "eamir_chordspeller[13]" value = "60" />
+		<pattr name = "eamir_chordspeller[14]" value = "46 52 47 85 49 52 52 85" />
+		<pattr name = "eamir_chordspeller[15]" value = "36" />
+		<pattr name = "eamir_chordspeller[16]" value = "60" />
+		<pattr name = "eamir_chordspeller[17]" value = "85 49 87 41 89 66 92 3 93 56 94 3" />
+		<pattr name = "eamir_chordspeller[18]" value = "36" />
+		<pattr name = "eamir_chordspeller[19]" value = "60" />
+		<pattr name = "eamir_chordspeller[1]" value = "60" />
+		<pattr name = "eamir_chordspeller[20]" value = "88 1 89 1 91 15 92 2 94 19 95 68" />
+		<pattr name = "eamir_chordspeller[21]" value = "36" />
+		<pattr name = "eamir_chordspeller[22]" value = "60" />
+		<pattr name = "eamir_chordspeller[23]" value = "39 24 40 64 44 15 47 64" />
+		<pattr name = "eamir_chordspeller[24]" value = "36" />
+		<pattr name = "eamir_chordspeller[25]" value = "60" />
+		<pattr name = "eamir_chordspeller[26]" value = "84 28 86 28 89 25 91 25" />
+		<pattr name = "eamir_chordspeller[27]" value = "36" />
+		<pattr name = "eamir_chordspeller[28]" value = "60" />
+		<pattr name = "eamir_chordspeller[29]" value = "79 83 80 49 82 49 84 83 85 58" />
+		<pattr name = "eamir_chordspeller[2]" value = "53 63 57 63 63 14 71 61 76 61" />
+		<pattr name = "eamir_chordspeller[30]" value = "36" />
+		<pattr name = "eamir_chordspeller[31]" value = "60" />
+		<pattr name = "eamir_chordspeller[32]" value = "75 13 77 51 83 31 88 27 89 27" />
+		<pattr name = "eamir_chordspeller[33]" value = "36" />
+		<pattr name = "eamir_chordspeller[34]" value = "60" />
+		<pattr name = "eamir_chordspeller[35]" value = "52 51 53 51 57 54 62 63 65 73 66 44" />
+		<pattr name = "eamir_chordspeller[36]" value = "36" />
+		<pattr name = "eamir_chordspeller[37]" value = "60" />
+		<pattr name = "eamir_chordspeller[38]" value = "87 40 88 70 89 68 90 23 92 23 93 68 94 23" />
+		<pattr name = "eamir_chordspeller[39]" value = "36" />
+		<pattr name = "eamir_chordspeller[40]" value = "60" />
+		<pattr name = "eamir_chordspeller[41]" value = "81 102 82 82 83 102 88 102 90 82" />
+		<pattr name = "eamir_chordspeller[42]" value = "36" />
+		<pattr name = "eamir_chordspeller[43]" value = "60" />
+		<pattr name = "eamir_chordspeller[44]" value = "67 51 69 51 72 41 77 34" />
+		<pattr name = "eamir_chordspeller[45]" value = "36" />
+		<pattr name = "eamir_chordspeller[46]" value = "60" />
+		<pattr name = "eamir_chordspeller[47]" value = "58 47 59 79 63 30 68 18 73 18" />
+		<pattr name = "eamir_chordspeller[48]" value = "36" />
+		<pattr name = "eamir_chordspeller[49]" value = "60" />
+		<pattr name = "eamir_chordspeller[50]" value = "64 74 65 70 67 67 71 67 73 22 76 67 77 67 79 67" />
+		<pattr name = "eamir_chordspeller[6]" value = "36" />
+		<pattr name = "eamir_chordspeller[7]" value = "60" />
+		<pattr name = "eamir_chordspeller[8]" value = "42 48 44 35 47 75 52 75 53 75" />
+		<pattr name = "eamir_chordspeller[9]" value = "36" />
+	</slot>
+</pattrstorage>
+

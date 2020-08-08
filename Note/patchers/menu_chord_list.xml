@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+
+<pattrstorage name = "eamir_chord_list[34]">
+	<slot number = "1">
+		<pattr name = "eamir_chord_list" value = "0" />
+		<pattr name = "eamir_chord_list[10]" value = "6" />
+		<pattr name = "eamir_chord_list[11]" value = "7" />
+		<pattr name = "eamir_chord_list[12]" value = "3" />
+		<pattr name = "eamir_chord_list[13]" value = "4" />
+		<pattr name = "eamir_chord_list[14]" value = "5" />
+		<pattr name = "eamir_chord_list[15]" value = "6" />
+		<pattr name = "eamir_chord_list[16]" value = "4" />
+		<pattr name = "eamir_chord_list[17]" value = "5" />
+		<pattr name = "eamir_chord_list[18]" value = "1" />
+		<pattr name = "eamir_chord_list[19]" value = "inv 8" />
+		<pattr name = "eamir_chord_list[20]" value = "7" />
+		<pattr name = "eamir_chord_list[21]" value = "inv 7" />
+		<pattr name = "eamir_chord_list[22]" value = "6" />
+		<pattr name = "eamir_chord_list[23]" value = "inv 6" />
+		<pattr name = "eamir_chord_list[24]" value = "5" />
+		<pattr name = "eamir_chord_list[25]" value = "inv 5" />
+		<pattr name = "eamir_chord_list[26]" value = "4" />
+		<pattr name = "eamir_chord_list[27]" value = "inv 4" />
+		<pattr name = "eamir_chord_list[28]" value = "3" />
+		<pattr name = "eamir_chord_list[29]" value = "inv 3" />
+		<pattr name = "eamir_chord_list[2]" value = "0" />
+		<pattr name = "eamir_chord_list[30]" value = "2" />
+		<pattr name = "eamir_chord_list[31]" value = "inv 2" />
+		<pattr name = "eamir_chord_list[32]" value = "1" />
+		<pattr name = "eamir_chord_list[33]" value = "inv 1" />
+		<pattr name = "eamir_chord_list[3]" value = "1" />
+		<pattr name = "eamir_chord_list[4]" value = "1" />
+		<pattr name = "eamir_chord_list[5]" value = "2" />
+		<pattr name = "eamir_chord_list[6]" value = "2" />
+		<pattr name = "eamir_chord_list[7]" value = "3" />
+		<pattr name = "eamir_chord_list[8]" value = "7" />
+		<pattr name = "eamir_chord_list[9]" value = "8" />
+	</slot>
+</pattrstorage>
+

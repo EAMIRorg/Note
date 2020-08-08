@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+
+<pattrstorage name = "eamir_midi_learn[4]">
+	<slot number = "1">
+		<pattr name = "eamir_midi_learn[10]" value = "44" />
+		<pattr name = "eamir_midi_learn[11]" value = "45" />
+		<pattr name = "eamir_midi_learn[12]" value = "46" />
+		<pattr name = "eamir_midi_learn[13]" value = "47" />
+		<pattr name = "eamir_midi_learn[14]" value = "48" />
+		<pattr name = "eamir_midi_learn[15]" value = "49" />
+		<pattr name = "eamir_midi_learn[16]" value = "50" />
+		<pattr name = "eamir_midi_learn[17]" value = "51" />
+		<pattr name = "eamir_midi_learn[18]" value = "53" />
+		<pattr name = "eamir_midi_learn[19]" value = "52" />
+		<pattr name = "eamir_midi_learn[1]" value = "37" />
+		<pattr name = "eamir_midi_learn[20]" value = "55" />
+		<pattr name = "eamir_midi_learn[21]" value = "54" />
+		<pattr name = "eamir_midi_learn[22]" value = "57" />
+		<pattr name = "eamir_midi_learn[23]" value = "36" />
+		<pattr name = "eamir_midi_learn[24]" value = "56" />
+		<pattr name = "eamir_midi_learn[25]" value = "58" />
+		<pattr name = "eamir_midi_learn[26]" value = "59" />
+		<pattr name = "eamir_midi_learn[27]" value = "60" />
+		<pattr name = "eamir_midi_learn[2]" value = "38" />
+		<pattr name = "eamir_midi_learn[5]" value = "39" />
+		<pattr name = "eamir_midi_learn[6]" value = "40" />
+		<pattr name = "eamir_midi_learn[7]" value = "41" />
+		<pattr name = "eamir_midi_learn[8]" value = "42" />
+		<pattr name = "eamir_midi_learn[9]" value = "43" />
+		<pattr name = "eamir_midi_learn[3]" value = "0" />
+	</slot>
+</pattrstorage>
+
